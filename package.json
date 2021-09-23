@@ -1,5 +1,5 @@
 {
-  "name": "@paydaycay/verdaccio-gitlab-oauth2",
+  "name": "verdaccio-gitlab-oauth3",
   "version": "1.0.10",
   "keywords": [
     "gitlab",
@@ -65,14 +65,13 @@
   "peerDependencies": {
     "express": "4",
     "lodash": "4",
-    "verdaccio": "3 || 4"
+    "verdaccio": "3 || 4 || 5"
   },
   "engines": {
     "node": ">=10"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
-    "access": "public"
+    "registry": "https://registry.npmjs.org/"
   },
   "$schema": "http://json.schemastore.org/package"
 }

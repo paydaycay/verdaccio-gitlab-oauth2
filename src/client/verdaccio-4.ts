@@ -1,7 +1,7 @@
 import { copyToClipboard, formatUsageInfo, init, isLoggedIn } from "./gitlab-oauth"
 
 const usageInfoSelector = "#help-card .MuiCardContent-root span, .MuiDialogContent-root .MuiTypography-root span"
-const markerClass = "gitlab-oauth2"
+const markerClass = "gitlab-oauth3"
 
 function markUsageInfoNodes() {
   document.querySelectorAll(usageInfoSelector).forEach(node => {

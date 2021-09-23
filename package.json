@@ -63,9 +63,7 @@
     "verdaccio-htpasswd": "^8.2.0"
   },
   "peerDependencies": {
-    "express": "4",
-    "lodash": "4",
-    "verdaccio": "3 || 4 || 5"
+    "verdaccio": ">=5"
   },
   "engines": {
     "node": ">=10"

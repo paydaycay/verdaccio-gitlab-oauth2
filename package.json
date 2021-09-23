@@ -1,5 +1,5 @@
 {
-  "name": "paydaycay/verdaccio-gitlab-oauth2",
+  "name": "@paydaycay/verdaccio-gitlab-oauth2",
   "version": "1.0.10",
   "keywords": [
     "gitlab",

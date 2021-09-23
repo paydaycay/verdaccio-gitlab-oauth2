@@ -1,7 +1,7 @@
 import { copyToClipboard, formatUsageInfo, init, isLoggedIn } from "./gitlab-oauth"
 
 const usageInfoSelector = "#help-card .MuiCardContent-root span, .MuiDialogContent-root .MuiTypography-root span"
-const markerClass = "gitlab-oauth3"
+const markerClass = "gitlab-gitlab-oauth4"
 
 function markUsageInfoNodes() {
   document.querySelectorAll(usageInfoSelector).forEach(node => {
@@ -36,7 +36,7 @@ function modifyUsageInfoNodes() {
 function updateUsageInfo() {
   markUsageInfoNodes()
   modifyUsageInfoNodes()
-  console.info("verdaccio-gitlab-oauth3 initated!")
+  console.info("verdaccio-gitlab-gitlab-oauth4 initated!")
 }
 
 init({

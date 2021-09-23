@@ -12,7 +12,7 @@ about: Create a report to help us improve
 |                           | Version |
 | ------------------------- | ------- |
 | verdaccio                 |         |
-| verdaccio-gitlab-oauth3 |         |
+| verdaccio-gitlab-gitlab-oauth4 |         |
 
 #### Expected behavior
 <!-- A clear and concise description of what you expected to happen. -->

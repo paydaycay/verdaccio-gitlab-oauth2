@@ -71,7 +71,8 @@
     "node": ">=10"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "$schema": "http://json.schemastore.org/package"
 }

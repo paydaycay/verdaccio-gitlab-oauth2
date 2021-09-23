@@ -11,9 +11,9 @@
     "registry",
     "verdaccio"
   ],
-  "repository": "github:szymondukla/verdaccio-gitlab-oauth2",
+  "repository": "github:paydaycay/verdaccio-gitlab-oauth2",
   "license": "MIT",
-  "author": "Szymon Dukla",
+  "author": "Paydaycay",
   "files": [
     "dist"
   ],

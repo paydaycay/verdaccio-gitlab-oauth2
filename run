@@ -24,7 +24,7 @@ fail() {
 # Commands
 ##################################################
 
-linkdir=node_modules/verdaccio-gitlab-gitlab-oauth4
+linkdir=node_modules/verdaccio-gitlab-oauth4
 config=verdaccio.yaml
 
 #

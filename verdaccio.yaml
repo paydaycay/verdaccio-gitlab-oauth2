@@ -17,11 +17,11 @@ web:
 middlewares:
   audit:
     enabled: true
-  gitlab-oauth4:
+  gitlab-oauth-ui:
     enabled: true
 
 auth:
-  gitlab-oauth4:
+  gitlab-oauth-ui:
     group: GITLAB_GROUP # required
     client-id: GITLAB_CLIENT_ID # required
     client-secret: GITLAB_CLIENT_SECRET # required

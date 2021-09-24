@@ -17,6 +17,9 @@
   "files": [
     "dist"
   ],
+  "bin": {
+    "verdaccio-gitlab-oauth-ui": "dist/cli.js"
+  },
   "main": "dist/server.js",
   "scripts": {
     "build": "bash run build",

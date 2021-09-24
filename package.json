@@ -1,6 +1,6 @@
 {
   "name": "verdaccio-gitlab-oauth4",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "keywords": [
     "gitlab",
     "login",
@@ -44,7 +44,7 @@
     "@types/got": "^9.4.1",
     "@types/lodash": "^4.14.123",
     "@types/node": "^12.0.4",
-    "@verdaccio/types": "^8.3.0",
+    "@verdaccio/types": "^10.0.0",
     "core-js": "^3.3.4",
     "express": "^4.17.0",
     "lodash": "4.17.15",
@@ -59,8 +59,8 @@
     "tslint": "^5.14.0",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.6.4",
-    "verdaccio": "^4.3.4",
-    "verdaccio-htpasswd": "^8.2.0"
+    "verdaccio": "^5.0.4",
+    "verdaccio-htpasswd": "^10.0.0"
   },
   "peerDependencies": {
     "verdaccio": ">=5"
